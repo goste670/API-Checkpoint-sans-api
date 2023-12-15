@@ -1,5 +1,5 @@
 # Web Car Lux + + +
-### `I didnt finsh the project style cose | me + style = 2,55 | . . . yea sorry`
+### `I didnt finsh the project style cose | me + style = 2 //\\ me ≠ style  | . . . yea sorry`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Aboute the job of this web
 sais un site web qui affiche des voiture normalement consomer par une api mais il y a eu un soussi avec api allor je get la data avec un fichier Python pour cree data.json apres j utilise data.json pour afficher la data de chaque voiture disponible 
