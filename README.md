@@ -4,8 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Aboute the job of this web
 sais un site web qui affiche des voiture normalement consomer par une api mais il y a eu un soussi avec api allor je get la data avec un fichier Python pour cree data.json apres j utilise data.json pour afficher la data de chaque voiture disponible 
 
+## data.py
+### `install python dependence for start the get data ! ! !`
+
+
 ## first use :
 ### `npm install`
+
 
 ## Available Scripts
 
