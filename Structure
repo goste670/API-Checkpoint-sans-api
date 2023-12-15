@@ -1,0 +1,16 @@
+tmvoiture/
+|-- src/
+|   |-- components/
+|   |   |-- Car.js
+|   |   |-- CarDetail.js
+|   |   |-- CarList.js
+|   |-- data/
+|   |   |-- data.json
+|   |-- style/
+|   |   |-- App.css
+|   |-- App.js
+|   |-- index.js
+|-- public/
+|   |-- images/
+|       |-- loading.gif
+|-- package.json
